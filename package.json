@@ -1,0 +1,22 @@
+{
+  "name": "rainbow_text_box",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paranoimin/rainbow_text_box.git"
+  },
+  "author": "jamin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paranoimin/rainbow_text_box/issues"
+  },
+  "homepage": "https://github.com/paranoimin/rainbow_text_box#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}

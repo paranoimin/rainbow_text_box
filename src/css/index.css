@@ -1,0 +1,28 @@
+#wrap {
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto;
+    text-align: center;
+}
+#inputBox {
+    width: 320px; height: 50px;
+    background-color: #0089ff;
+    margin: 20px auto 0;
+    position: relative;
+    overflow: hidden;
+}
+#q {
+    width: 318px; height: 48px;
+    margin-top: 1px;
+    border: none;
+    position: absolute;
+    left: 1px; top: 0;
+    z-index: 2
+}
+#rainbow {
+    width: 320px; height: 50px;
+    background: linear-gradient(to right, #0089ff 0%,#59e091 28%,#59e091 34%,#dde845 51%,#dde845 59%,#ff4f4f 76%,#0089ff 100%);
+    position: absolute;
+    left: -100%; top: 0;
+    z-index: 1;
+}
